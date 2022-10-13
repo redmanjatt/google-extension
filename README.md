@@ -15,3 +15,4 @@ follow the following steps:-
 
  
 note:- this can be done with any browser such as brave , opera and opera GX , bing, etc.
+*instructions are the same for linux*
